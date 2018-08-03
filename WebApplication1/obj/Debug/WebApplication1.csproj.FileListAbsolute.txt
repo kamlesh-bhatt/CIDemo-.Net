@@ -1,0 +1,7 @@
+F:\CIDemo\CIDemo\WebApplication1\bin\WebApplication1.dll.config
+F:\CIDemo\CIDemo\WebApplication1\bin\WebApplication1.dll
+F:\CIDemo\CIDemo\WebApplication1\bin\WebApplication1.pdb
+F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.dll
+F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.pdb
