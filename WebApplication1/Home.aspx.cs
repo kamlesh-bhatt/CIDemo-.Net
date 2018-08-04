@@ -11,12 +11,13 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string this_is_useless_variable;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
             Label1.Text = DateTime.Now.ToString();
+            string test;
         }
     }
 }
