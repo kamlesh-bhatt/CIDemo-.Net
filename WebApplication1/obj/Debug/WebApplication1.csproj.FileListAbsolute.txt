@@ -5,3 +5,10 @@ F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssembly
 F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.dll
 F:\CIDemo\CIDemo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.pdb
