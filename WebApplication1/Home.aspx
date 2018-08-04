@@ -30,7 +30,7 @@
         <br />
         <br />
         <center><asp:Label ID="Label1" runat="server" Text=""></asp:Label></center>
-      <center>  <div><h2>Version 1.0</h2></div></center>
+      <center>  <div><h2>Version 2.0</h2></div></center>
     </form>
 </body>
 </html>
