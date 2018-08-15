@@ -29,7 +29,7 @@
             <br />
             <div>
                 <center>
-                    <strong>Git ->> TeamCity-->> SonarQube-->>Nexus-->>Target Server</strong>
+                    <strong>Git ->> TeamCity-->> SonarQube-->>(Artifacts)-->>Target Server</strong>
                 </center>
             </div>
             <br />
@@ -50,7 +50,7 @@
             </center>
             <center>
                 <div>
-                    <h2>Version 2.0- Demo Application</h2>
+                    <h2>Version 4.0- Demo Application</h2>
                 </div>
             </center>
         </form>
