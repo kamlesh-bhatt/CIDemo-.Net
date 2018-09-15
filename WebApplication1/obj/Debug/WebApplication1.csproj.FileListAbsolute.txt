@@ -12,3 +12,10 @@ C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApp
 C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Kamlesh Bhatt\source\WebSites\WebSite2\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\cidemo2\CIDemo-.Net\WebApplication1\bin\WebApplication1.dll.config
+F:\cidemo2\CIDemo-.Net\WebApplication1\bin\WebApplication1.dll
+F:\cidemo2\CIDemo-.Net\WebApplication1\bin\WebApplication1.pdb
+F:\cidemo2\CIDemo-.Net\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\cidemo2\CIDemo-.Net\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\cidemo2\CIDemo-.Net\WebApplication1\obj\Debug\WebApplication1.dll
+F:\cidemo2\CIDemo-.Net\WebApplication1\obj\Debug\WebApplication1.pdb
